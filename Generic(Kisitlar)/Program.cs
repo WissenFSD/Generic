@@ -24,9 +24,6 @@
     {
         static void Main(string[] args)
         {
-
-
-
             // Generic kavramında, generic olarak belirlenmiş metotlara gelebilecek olan parametrelere sınır getirebiliriz.
 
 
@@ -59,8 +56,6 @@
             // Interface kısıtı
             Generic5<Wissen>(new Wissen(""));
         }
-
-
 
         // Generic kısıtlar, temel olarak generic olarak kullanılacak olan tüm tiplere kısıtlar koymaya denir
 
