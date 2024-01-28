@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic(Metot)", "Generic\G
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic(Kisitlar)", "Generic(Kisitlar)\Generic(Kisitlar).csproj", "{37139AE7-575A-4C7C-A3A3-672E376566DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic(Koleksiyon)", "Generic(Koleksiyon)\Generic(Koleksiyon).csproj", "{9DBD5222-AD6E-4296-BDF3-EB543D2BA34B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic(Interface)", "Generic(Interface)\Generic(Interface).csproj", "{155E6A67-BF85-48D0-9879-D559F8DF7308}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{37139AE7-575A-4C7C-A3A3-672E376566DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37139AE7-575A-4C7C-A3A3-672E376566DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37139AE7-575A-4C7C-A3A3-672E376566DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DBD5222-AD6E-4296-BDF3-EB543D2BA34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DBD5222-AD6E-4296-BDF3-EB543D2BA34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DBD5222-AD6E-4296-BDF3-EB543D2BA34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DBD5222-AD6E-4296-BDF3-EB543D2BA34B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{155E6A67-BF85-48D0-9879-D559F8DF7308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155E6A67-BF85-48D0-9879-D559F8DF7308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155E6A67-BF85-48D0-9879-D559F8DF7308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155E6A67-BF85-48D0-9879-D559F8DF7308}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
